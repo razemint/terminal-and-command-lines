@@ -5,7 +5,7 @@ Some examples of the linux terminal and command lines.
 
 ## Change directory
 
-## make a directory
+## Make a directory
 
 ## Lists
 To see a the items inside a direction in linux the command is:
