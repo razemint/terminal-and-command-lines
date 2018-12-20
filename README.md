@@ -1,14 +1,14 @@
 # Linux Terminal and Command Lines
 Some examples of the linux terminal and command lines.
 
-**Twitter** [@ChristianRazemint](twitter.com/ChrisRazemint)
+**Twitter** [@ChrisRazemint](twitter.com/ChrisRazemint)
 
 ## Change directory
 
 ## Make a directory
 
 ## Lists
-* To see a the items inside a direction in linux the command is:
+* To see the items inside a direction in linux the command is:
 `ls`
 * to see in a detailed way: `ls -l`
 * to see in a detailed human way `ls -lh`
