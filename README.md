@@ -1,7 +1,7 @@
 # Linux Terminal and Command Lines
 Some examples of the linux terminal and command lines.
 
-**Twitter** [@is_not_a_cow](twitter.com/ChrisRazemint)
+**Twitter** [@is_not_a_cow](twitter.com/is_not_a_cow)
 
 ## Change directory
 * change directory: `cd previous/name_of_the_directory`
