@@ -19,3 +19,8 @@ Some examples of the linux terminal and command lines.
 
 ## Working directory
 * see the direction where we are working is: `pwd`
+* "change" the name of the directory: `mv _actual name_  _new name`
+* move a file to another directory: `mv _file_  _route_`
+
+##Help
+* to see a manual of each command `man _command_`
