@@ -1,7 +1,7 @@
 # Linux Terminal and Command Lines
 Some examples of the linux terminal and command lines.
 
-**Twitter** [@ChrisRazemint](twitter.com/ChrisRazemint)
+**Twitter** [@is_not_a_cow](twitter.com/ChrisRazemint)
 
 ## Change directory
 * change directory: `cd previous/name_of_the_directory`
@@ -21,13 +21,13 @@ Some examples of the linux terminal and command lines.
 
 ## Working directory
 * see the direction where we are working is: `pwd`
-* "change" the name of the directory: `mv _actual name_  _new name`
+* "change" the name of the directory: `mv _actual name_  _new name_`
 * move a file to another directory: `mv _file_  _route_`
 * delete a directory: `rm -rf _directory_`
 
 ## Files
 * make a new file: `touch _filename_`
-* delete file: `rm _filename-`
+* delete file: `rm _filename_`
 * make a copy of a file and send it to a directory: `cp _filename_  _route_`
 
 ## Help
