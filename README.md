@@ -31,8 +31,11 @@ Some examples of the linux terminal and command lines.
 * make a new file: `touch _filename_`
 * delete file: `rm _filename_`
 * make a copy of a file and send it to a directory: `cp _filename_  _route_`
-* open a file: `open _filename_` 
-* to see a file in depth: `more _filename_`
+* open a file: `open _filename_` / (in some other distros) `start _filename_`
+* to see a file in depth: `more _filename_` / (in some other distros) `less _filename_`
+* print all the content of a file in screen: `cat _filename_`
+* see the last 10 lines of a file: `tail _filename_`
+* see the first 10 lines of a file: `head _filename_`
 
 ## Help
 * to see a manual/explanation of each command: `man _command_`
