@@ -42,8 +42,10 @@ Some examples of the linux terminal and command lines.
 - print all the content of a file in screen: `cat _filename_`
 - see the last 10 lines of a file: `tail _filename_`
 - see the first 10 lines of a file: `head _filename_`
-- To see the ubication of the binary archive inside the PATH `which _command_`
+- To see the ubication of the binary archive inside the PATH: `which _command_`
+- Print the enviroment variable (PATH): `echo $PATH`
 
 ## Help
 
 - to see a manual/explanation of each command: `man _command_`
+- Create a variable which stores a command: `alias _nameofthenewvariable_= '_command_'`
