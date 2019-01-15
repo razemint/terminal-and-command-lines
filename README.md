@@ -4,16 +4,13 @@ Some examples of the linux terminal and command lines.
 
 **Twitter** [@is_not_a_cow](http://twitter.com/is_not_a_cow)
 
-## Change directory
+## Directories
 
 - change directory: `cd previous/name_of_the_directory`
 - to go to the previous root/directory: `cd ..`
 - go home/root: `cd ~` or `cd`
 - change between directories: `pushd`
 - get back to previous directory `popd`
-
-## Make a directory
-
 - make directory: `mkdir _name_`
 
 ## Lists
@@ -48,4 +45,6 @@ Some examples of the linux terminal and command lines.
 ## Help
 
 - to see a manual/explanation of each command: `man _command_`
-- Create a variable which stores a command: `alias _nameofthenewvariable_= '_command_'`
+- Create a variable which stores a command: `alias _nameofthevariable_= '_command_'`
+- Clean terminal: `ctrl/cmd + l`
+- Search used commands: `ctrl/cmd + r`
