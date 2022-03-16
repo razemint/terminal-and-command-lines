@@ -2,8 +2,6 @@
 
 Some examples of the linux terminal and command lines.
 
-**Twitter** [@is_not_a_cow](http://twitter.com/is_not_a_cow)
-
 ## Directories
 
 - change directory: `cd previous/name_of_the_directory`
